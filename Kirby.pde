@@ -40,4 +40,9 @@ void draw(){
   noStroke(); 
   triangle(190, 170, 230, 170, 206, 200);
   
+  //PIE DERECHO
+   fill(#FA4996);
+   stroke(#FC66A7);
+   strokeWeight(2);
+   ellipse(250, 230, 100, 80);
 }
