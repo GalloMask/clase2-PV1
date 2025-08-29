@@ -24,4 +24,14 @@ void draw(){
   fill(#FCA3E9);
   circle(200, 150, 200);
   
+  //OJO IZQUIERDA
+  fill(#224290);
+  ellipse(180, 130, 30, 60);
+  fill(#FFFFFF);
+  ellipse(183, 115, 20, 30);
+  //OJO derecho
+  fill(#224290);
+  ellipse(230, 130, 30, 60);
+  fill(#FFFFFF);;
+  ellipse(233, 115, 20, 30);
 }
