@@ -13,4 +13,15 @@ void draw(){
   //PIE IZQUIERDA
   fill(#FA4996); 
   ellipse(170, 250, 70, 90);
+  
+  //BRAZOS
+  fill(#FCA3E9); 
+  ellipse(100, 130, 80, 60);
+  fill(#FCA3E9); 
+  ellipse(290, 130, 70, 60);
+  
+  //CIRCULO
+  fill(#FCA3E9);
+  circle(200, 150, 200);
+  
 }
