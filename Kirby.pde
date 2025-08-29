@@ -9,4 +9,8 @@ void draw(){
   noStroke();
   triangle(20, 309, 200, 10, 381, 309);
   triangle(20, 91, 200, 390, 381, 91);
+  
+  //PIE IZQUIERDA
+  fill(#FA4996); 
+  ellipse(170, 250, 70, 90);
 }
