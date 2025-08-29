@@ -34,4 +34,10 @@ void draw(){
   ellipse(230, 130, 30, 60);
   fill(#FFFFFF);;
   ellipse(233, 115, 20, 30);
+  
+  // BOCA
+  fill(#CB2358);
+  noStroke(); 
+  triangle(190, 170, 230, 170, 206, 200);
+  
 }
